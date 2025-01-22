@@ -1,0 +1,10 @@
+adc_try01\filteringfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FilteringFunctions\FilteringFunctions.c
+adc_try01\filteringfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\FilteringFunctions\arm_biquad_cascade_df1_32x64_init_q31.c
+adc_try01\filteringfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+adc_try01\filteringfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+adc_try01\filteringfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\stdint.h
+adc_try01\filteringfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+adc_try01\filteringfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\string.h
+adc_try01\filteringfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\math.h
+adc_try01\filteringfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\float.h
+adc_try01\filteringfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\limits.h

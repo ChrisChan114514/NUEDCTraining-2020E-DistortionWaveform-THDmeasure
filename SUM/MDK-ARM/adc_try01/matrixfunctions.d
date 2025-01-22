@@ -1,0 +1,10 @@
+adc_try01\matrixfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\MatrixFunctions\MatrixFunctions.c
+adc_try01\matrixfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\MatrixFunctions\arm_mat_add_f32.c
+adc_try01\matrixfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+adc_try01\matrixfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+adc_try01\matrixfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\stdint.h
+adc_try01\matrixfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+adc_try01\matrixfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\string.h
+adc_try01\matrixfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\math.h
+adc_try01\matrixfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\float.h
+adc_try01\matrixfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\limits.h

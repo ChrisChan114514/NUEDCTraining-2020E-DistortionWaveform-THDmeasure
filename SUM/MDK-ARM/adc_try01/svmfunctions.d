@@ -1,0 +1,10 @@
+adc_try01\svmfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\SVMFunctions.c
+adc_try01\svmfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_linear_init_f32.c
+adc_try01\svmfunctions.o: D:\stm32-keil5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Include\arm_math.h
+adc_try01\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+adc_try01\svmfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\stdint.h
+adc_try01\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+adc_try01\svmfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\string.h
+adc_try01\svmfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\math.h
+adc_try01\svmfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\float.h
+adc_try01\svmfunctions.o: D:\stm32-keil5\ARM\ARMCC\Bin\..\include\limits.h
